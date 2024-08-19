@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sanvelu82
+- 👋 Hi, I’m Sandeep V
 
 - 👀 I’m interested in machine learning, data analysis, and web development.
 
