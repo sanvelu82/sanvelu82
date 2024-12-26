@@ -6,7 +6,7 @@
 
 - 💞️ I’m looking to collaborate on machine learning projects, web development, and data analysis initiatives.
 
-- 📫 How to reach me: [sandeepv.aiml2023@citchennai.net](mailto:sandeepv.aiml2023@citchennai.net)
+- 📫 To reach me: [sandeepv.aiml2023@citchennai.net](mailto:sandeepv.aiml2023@citchennai.net)
 
 - 😄 Pronouns: He/Him
 
